@@ -1,0 +1,12 @@
+{
+  "name": "simple-http-app",
+  "version": "1.0.0",
+  "description": "Simple HTTP application for ALB and CodeDeploy health checks",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
